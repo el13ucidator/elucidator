@@ -8,19 +8,14 @@ header:
 permalink: "/roadmap/"
 ---
 
-## Life Projects
+## Technical Upgrades
 {: .t30 }
 
-* Plan the wedding
-* Plan the honeymoon
+* Machine Learning
+* Algorithms
 
-## Home Improvement
-* Move in
-* Renovate a kitchen
+## Communications
+* 1.5 languages
 
-## Standing Projects
-* Plan an annual trip
-* Host a meal once a month
-* Take or process photographs (bi)weekly
-* AGI +100
+
 
